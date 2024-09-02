@@ -15,7 +15,12 @@ K-water WateRound GitHub에는 디지털 물산업 혁신인재 양성사업 학
 10. 인공지능 기반 CCTV 영상분석을 통한 도시 침수 감지
     
 
+## Homepage
+- 링크 -> [바로가기](https://wateround.kr)
 
+----------------------------------------------
+문의사항 : K-water WateRound에 문의사항이 있으시면 언제든지 아래의 이메일을 이용해주세요.
+- K-water 물산업혁신처 디지털혁신팀 워터라운드 (wateround@kwater.or.kr)
 <!--
 - 👋 Hi, I’m @K-WateRound
 - 👀 I’m interested in ...
