@@ -1,5 +1,5 @@
 ## K-water WateRound GitHub에 오신 것을 환영합니다. 😄
-https://www.wateround.kr/resources/images/platform/wateround_c.png
+<img src="https://www.wateround.kr/resources/images/platform/wateround_c.png">
 
 [![Binder]K-water WateRound GitHub에는 디지털 물산업 혁신인재 양성사업 학습 예제를 공유하고 있습니다.
 
