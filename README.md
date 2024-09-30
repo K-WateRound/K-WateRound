@@ -18,6 +18,7 @@
 
 ## Homepage
 - 링크 -> [바로가기](https://wateround.kr)
+- <img src="https://github.com/K-WateRound/K-WateRound/blob/master/qrcode.png" height="150px" width="150px">
 
 ----------------------------------------------
 문의사항 : K-water WateRound에 문의사항이 있으시면 언제든지 아래의 이메일을 이용해주세요.
